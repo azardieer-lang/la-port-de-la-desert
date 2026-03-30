@@ -161,18 +161,18 @@ const About = () => {
   const features = [
     {
       icon: Users,
-      title: 'Authentic Berber Hospitality',
-      description: 'Experience genuine warmth and tradition',
+      title: 'Authentic Sahara Hospitality',
+      description: 'Experience the genuine warmth of the Sahara. We welcome you not as a tourist, but as a guest in our home, sharing traditional mint tea and stories that have been passed down through generations',
     },
     {
       icon: Compass,
       title: 'Expert Local Guides',
-      description: 'Born in the desert, they know every dune',
+      description: 'Abdulwahab and his team are sons of the desert. Their knowledge of the terrain, the weather, and the stars ensures a safe, insightful, and deeply personal exploration of the wilderness.',
     },
     {
       icon: Leaf,
       title: 'Sustainable Tourism Practices',
-      description: 'Preserving the Sahara for future generations',
+      description: 'We are committed to preserving the fragile beauty of our environment. Our tours honor nomadic traditions and support the local community, ensuring the Sahara remains a pristine sanctuary for generations to come.',
     },
   ]
 
