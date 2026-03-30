@@ -225,8 +225,9 @@ const Hero = () => {
 
           {/* Subheadline */}
           <p className="hero-subheadline font-body text-base md:text-lg lg:text-xl text-[#f5f0e1]/90 leading-relaxed mb-8 max-w-[600px] mx-auto">
-            Authentic desert adventures from M'hamid El Ghizlane - where ancient
-            nomadic traditions meet unforgettable journeys under starlit skies.
+              Authentic desert adventures from M’hamid El Ghizlane—
+              where ancient nomadic traditions meet unforgettable journeys under the starlit skies.
+              Join Abdulwahab for a journey into the heart of the dunes.
           </p>
 
           {/* CTA Button */}
