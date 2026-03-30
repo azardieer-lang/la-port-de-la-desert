@@ -220,14 +220,17 @@ const About = () => {
             {/* Body Text */}
             <div className="about-body space-y-4 mb-8">
               <p className="font-body text-base md:text-lg text-[#1a1a1a]/80 leading-relaxed">
-                M'hamid El Ghizlane, the last village before the endless sands, is
-                where your desert adventure begins. Our expert guides, born of the
-                desert, invite you to experience authentic nomadic traditions.
+                 M’hamid El Ghizlane is more than just the last village before the endless sands;
+                 it is a living gateway to a world of silence, beauty, and ancient wisdom. Born and raised in these dunes, 
+                 Abdulwahab carries the legacy of the nomads who once navigated the great trans-Saharan caravan routes. 
+                 With a deep-rooted connection to the land, 
+                 he invites you to step away from the modern world and immerse yourself in the authentic spirit of the Sahara.
               </p>
               <p className="font-body text-base md:text-lg text-[#1a1a1a]/80 leading-relaxed">
-                From camel treks across golden dunes to nights under the stars in
-                traditional Berber camps, every moment is crafted to connect you
-                with the timeless beauty of the Sahara.
+                 Our journeys are crafted for those who seek more than just a tour.
+                 Whether you are trekking across the golden dunes of Erg Chegaga on camelback or sharing stories around a crackling campfire,
+                 Abdulwahab ensures every moment is an invitation to connect with the desert’s timeless rhythm.
+                 From the warm hospitality of the desert people to the hidden secrets of the oases, your adventure is guided by a local expert who knows every  place of the sahara.
               </p>
             </div>
 
