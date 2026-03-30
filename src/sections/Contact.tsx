@@ -193,12 +193,12 @@ const Contact = () => {
     {
       icon: Phone,
       label: 'Phone',
-      value: '+212 123 456 789',
+      value: '+212 713-929350',
     },
     {
       icon: Mail,
       label: 'Email',
-      value: 'info@saharatours.com',
+      value: 'abdoprjct@gmail.com',
     },
     {
       icon: Clock,
